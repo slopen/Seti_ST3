@@ -13,7 +13,7 @@ General
                 <key>settings</key>
                 <dict>
                    <key>background</key>
-                    <string>#151718</string>
+                    <string>#000004</string>
                     <key>foreground</key>
                     <string>#d4d7d6</string>
 
@@ -35,9 +35,7 @@ General
                     <!-- <string>#2B3337</string> -->
 
                     <key>selection</key>
-                    <string>#4FA5C7</string>
-                    <key>selectionForeground</key>
-                    <string>#fefefe</string>
+                    <string>#444444</string>
 
                     <key>bracketContentsOptions</key>
                     <string>underline</string>
@@ -62,8 +60,6 @@ General
                 <string>string.quoted.double.block, string.docstring, string.quoted.single.block</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string>italic</string>
                     <key>foreground</key>
                     <string>#218B97</string>
                 </dict>
@@ -275,8 +271,6 @@ Function Name
                 <string>entity.other.inherited-class</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string>italic</string>
                     <key>foreground</key>
                     <string>#ffffff</string>
                 </dict>
@@ -452,8 +446,6 @@ Variable
                 <string>variable.language, variable.parameter.function.language</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string>italic</string>
                     <key>foreground</key>
                     <string>#9fca56</string>
                 </dict>
@@ -1430,7 +1422,7 @@ Js
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#55b5db</string>
+                    <string>#888</string>
                 </dict>
             </dict>
 
